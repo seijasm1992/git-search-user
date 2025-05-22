@@ -6,6 +6,5 @@
     "init:tailwind": "tailwindcss init",
     "build": "tailwindcss -i ./src/input.css -o ./css/output.css",
     "watch": "tailwindcss -i ./src/input.css -o ./css/output.css --watch"
-
   }
 }
