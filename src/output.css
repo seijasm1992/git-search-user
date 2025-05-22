@@ -625,6 +625,14 @@ video {
   width: 100%;
 }
 
+.w-3\/5 {
+  width: 60%;
+}
+
+.w-2\/5 {
+  width: 40%;
+}
+
 .max-w-\[896px\] {
   max-width: 896px;
 }
