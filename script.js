@@ -55,3 +55,4 @@ function formatDate(date) {
   const year = dateObj.getFullYear();
   return `Joined ${day} ${month} ${year}`;
 }
+window.addEventListener('DOMContentLoaded', fetchData('bradtraversy'));
